@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8F8CB26A-CC77-984F-2910-89E7FB1CB574}") = "EPX-JAM-2017", "Assembly-CSharp.csproj", "{AB682888-1EE9-E378-54CF-2512A8ED7276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB682888-1EE9-E378-54CF-2512A8ED7276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB682888-1EE9-E378-54CF-2512A8ED7276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB682888-1EE9-E378-54CF-2512A8ED7276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB682888-1EE9-E378-54CF-2512A8ED7276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
